@@ -2,20 +2,16 @@
 
 This is a simple Tetris game implemented in TypeScript. Have fun playing and customizing your own Tetris game!
 
-## Demo
-
-You can play a live version of the game [here](link_to_demo).
-
 ## Screenshots
 
 ![Screenshot from the game](./public/pic.png)
 
 ## Features
 
-- [ ] Fully functional Tetris game.
-- [ ] Implemented in TypeScript for cleaner and more maintainable code.
-- [ ] Keyboard control support.
-- [ ] Scoring system.
+-  Fully functional Tetris game.
+-  Implemented in TypeScript for cleaner and more maintainable code.
+-  Keyboard control support.
+-  Scoring system.
 
 ## Customization
 
